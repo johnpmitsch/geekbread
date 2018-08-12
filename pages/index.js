@@ -1,6 +1,6 @@
 const Index = () => (
   <div>
-    <p>TRAVIS WORKS</p>
+    <p>ALIAS WORKS</p>
   </div>
 )
 
